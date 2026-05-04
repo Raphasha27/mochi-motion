@@ -1,6 +1,5 @@
-# 🏛️ KIROV DYNAMICS | MOCHI MOTION (v1.0)
+# 🍡 MOCHI MOTION (v1.0)
 
-[![Kirov Dynamics](https://img.shields.io/badge/Kirov_Dynamics-Sovereign_Intelligence-002D62?style=for-the-badge&labelColor=0d1117)](https://github.com/Raphasha27)
 ![Status](https://img.shields.io/badge/Status-🚀_Active-3fb950?style=for-the-badge&labelColor=0d1117)
 
 > **"Professional Motion Physics for the Modern Web."**
@@ -8,7 +7,7 @@
 <img width="1800" height="1200" alt="IMG_0349" src="https://github.com/user-attachments/assets/d9e5a102-e3ae-455f-9a57-95fa8c13fe92" />
 
 ---
-**Mochi Motion** brings world-class animation to your React applications with zero configuration. Built on Framer Motion with intelligent defaults, it delivers the smooth, bouncy animations you see in the best modern web apps. Re-engineered as a high-performance animation asset within the **Kirov Dynamics** design system.
+**Mochi Motion** brings world-class animation to your React applications with zero configuration. Built on Framer Motion with intelligent defaults, it delivers the smooth, bouncy animations you see in the best modern web apps. Maintained as a high-performance animation asset for the modern web.
 
 ## ✨ Why Mochi Motion?
 
@@ -92,5 +91,12 @@ Quick and responsive. Great for dashboards and productivity apps.
 ```
 
 ---
-*Developed by Raphasha27 - Kirov Dynamics 2026.*
+---
+
+## 🤝 Contributing
+Mochi Motion is open source and welcomes contributions. Found a bug or have a feature request? Please open an issue or pull request.
+
+**Contributors:**
+- [mirayatech](https://github.com/mirayatech) (Original Creator)
+- [Raphasha27](https://github.com/Raphasha27) / Kirov Dynamics (Maintainer)
 
